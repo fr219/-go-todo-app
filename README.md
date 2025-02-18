@@ -1,4 +1,4 @@
-##Toturial: how to use SQLite with golang ##
+## Toturial: how to use SQLite with golang ##
 original source: (https://medium.com/@peymaan.abedinpour/golang-crud-app-tutorial-step-by-step-guide-using-sqlite-a3ce08a4fc81)
 
 #What I Learned (what I needed to learn):#
